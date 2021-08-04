@@ -24,7 +24,7 @@
 
 ## Mídias Sociais 💻
 
-[![Facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://pt-br.facebook.com/people/Pedro-Henrique-Xavier-de-Souza/100009118541010/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-xavier-de-souza-0656a3175/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.pxz/)
