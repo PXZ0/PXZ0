@@ -1,8 +1,7 @@
 ## Olá! Sou Pedro Henrique Xavier 👋
 
-💻 Engenheiro de Software, Analista de Sistemas e Técnico em Informatica para Internet.</br>
+💻 Estagiario de TI, Engenheiro de Software, Analista de Sistemas e Técnico em Informatica para Internet.</br>
 🏡 Brazil, Arujá, SP.
-
 
 ## Front-End
 [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
