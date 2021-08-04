@@ -1,6 +1,6 @@
 ## Olá! Sou Pedro Henrique Xavier 👋
 
-💻 Engenheiro de Software, Analista de Sistemas e Técnico em Informatica para Internet.
+💻 Engenheiro de Software, Analista de Sistemas e Técnico em Informatica para Internet.</br>
 🏡 Brazil, Arujá, SP.
 
 
