@@ -14,7 +14,7 @@
 
 ### Banco de Dados
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MariaDB]()](https://mariadb.org)
+[![MariaDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://mariadb.org)
 
 ## Mídias Sociais 💻
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-xavier-de-souza-0656a3175/)
