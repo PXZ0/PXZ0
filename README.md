@@ -1,7 +1,7 @@
 ## Olá! Sou Pedro Henrique Xavier 👋
 
 💻 Estagiario de TI, Engenheiro de Software, Analista de Sistemas e Técnico em Informatica para Internet.</br>
-🏡 Brazil, Arujá, SP.
+🏡 São Paulo, Brazil.
 
 ## Sobre Mim 🎓
 
