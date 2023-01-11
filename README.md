@@ -1,12 +1,5 @@
 ## Olá! Sou Pedro Henrique Xavier 👋
 
-💻 Desenvolvedor Web, Analista de Sistemas e Técnico em Informatica.</br>
-🏡 São Paulo, Brazil.
-
-### Sobre Mim 🎓
-
-<p align="justify">Sou formado no curso técnico em Informatica para interet com duração de 3 anos, onde, realisei diversos projetos webs sendo o principal deles o Trabalho de Conclusão de Curso (TCC), no qual, eu e minha equipe fizemos um website com uma ideia inovadora, contudo, o chamamos de "Search Players" que tem a ideia de conectar jogadores de alugel com um time que precisam de jogadores para completa-los. Hoje com 18 anos estou cursando Analise e Desenvolvimento de Sistemas na Braz Cubas e sou estagiario na Prefeitura de Santa Isabel, tenho diversos conhecimentos em linguagens como mais a baixo, e com arquitetura e manutenção de computadores.</p>
-
 ### Meus Conhecimentos 📚
 
 
