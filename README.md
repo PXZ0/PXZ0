@@ -14,4 +14,3 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-xavier-de-souza-0656a3175/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.pxz/)
-[![Twitch](https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/PXZ0)
