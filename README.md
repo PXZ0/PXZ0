@@ -1,6 +1,9 @@
 <h1>Welcome to my GitHub! I am Pedro Henrique 👋</h1>
 
-<p>I am currently a freelancer in web systems development.</p>
+<p>I am currently a freelancer in web systems development</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PXZ0&layout=compact)
+
 
 <h2>Languages ​​and Technologies</h2>
   
@@ -13,6 +16,10 @@
   <img align="center" alt="Pedro-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Pedro-Composer" height="30" width="40" src="https://camo.githubusercontent.com/3cd8f2ee26efca52e899325928422e496320ecade6b8ccb8d64326270440152a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f636f6d706f7365722f636f6d706f7365722d6f726967696e616c2e737667">
   <img align="center" alt="Pedro-Git" height="30" width="40" src="https://camo.githubusercontent.com/e73364f9900c58060505ba6c6fab07d57b3bcafacc338131ae19125dc1fc9f07/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6769742d69636f6e2e737667">
+  <img align="center" alt="Pedro-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Pedro-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Pedro-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  
 </section>
 
 <h2>Social Media</h2>
